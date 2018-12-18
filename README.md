@@ -5,7 +5,7 @@ This interface extends `VoyagerBaseController::getContentBasedOnType()`, which m
 The package includes several additional FormFields:
 
 - **Key-Value to JSON**
-- **Multiple Images with tag's attributes**
+- **Multiple Images with tag attributes**
 
 Over time, this list will be updated with new items.
 
@@ -37,7 +37,7 @@ Final Data:
 
 ![default](https://user-images.githubusercontent.com/2696333/49937977-7fd06900-fee9-11e8-80ff-d5bf904123f7.png)
 
-## Multiple Images with tag's attributes
+## Multiple Images with tag attributes
 
 In BREAD configuration
 
