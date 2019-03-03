@@ -18,7 +18,7 @@
             </div>
             
             <div class="col-xs-1" style="margin-bottom:0;">
-                <button type="button" class="old_btn btn-xs" style="margin-top:0px;"><i class="voyager-trash"></i></button>
+                <button type="button" class="btn old_btn btn-xs" style="margin-top:0px;"><i class="voyager-trash"></i></button>
             </div>
         </div>
         @php 
