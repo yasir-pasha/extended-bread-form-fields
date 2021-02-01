@@ -1,5 +1,5 @@
 {
-    "name": "bnku/extended-bread-form-fields",
+    "name": "bnku_extended-bread-form-fields",
     "description": "Extended FormFields hook interface to Voyager BREAD",
     "tags": [
         "voyager",
